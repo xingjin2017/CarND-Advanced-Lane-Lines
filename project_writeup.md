@@ -1,7 +1,7 @@
 ##Project 4 Advanced Lane Lines
 ###This is the project write up for project 4 Advanced Lane Lines, which documents the steps taken to process the driving video and the results that have been generated.
 
-Here is the **[link to the project result video]**(https://youtu.be/OLAPB69Sdio).
+Here is the **[link to the project result video](https://youtu.be/OLAPB69Sdio)**.
 
 ---
 
@@ -169,7 +169,7 @@ Here is one example of overlayed image:
 
 ####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here is the **[link to the project result video]**(https://youtu.be/OLAPB69Sdio). 
+Here is the **[link to the project result video](https://youtu.be/OLAPB69Sdio)**. 
 
 ---
 
