@@ -60,7 +60,12 @@ The code for this step is located in the first block of the [Jupyter Notebook](h
 
 Here are one calibration image used and the corresponding undistorated image:
 
+Original:
+
 ![alt text][image7]
+
+Undistorted:
+
 ![alt text][image8]
 
 ###Pipeline (single images)
