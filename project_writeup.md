@@ -90,7 +90,7 @@ Here is the HSV color space yellow color filtering result:
 
 ![alt text][image13]
 
-Here is the HSV color space white color filtering result:
+Here is the HSV color space white color filtering result (only applied to the right 60% of the image):
 
 ![alt text][image14]
 
